@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Heidi Davidhizar Coaching"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: blog_page.qmd
+        text: Blog
+      - href: profile.qmd
+        text: Bio & Creds
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/heidi-davidhizar-lcsw-c-38a90990/
+    logo: 'HD logo minty2.png'
+     
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+    grid:
+      sidebar-width: 150px
+      body-width: 1200px
+      margin-width: 150px
+
+editor: visual
+
+
