@@ -1,5 +1,5 @@
 ---
-title: "Heidi Davidhizar, FCMT, LCSW-C"
+title: "Heidi Davidhizar, FCMT, LCSW"
 about:
   template: jolla
   links:
