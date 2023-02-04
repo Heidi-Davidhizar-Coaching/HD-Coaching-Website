@@ -7,15 +7,17 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - href: blog_page.qmd
-        text: Blog
+        text: Cultivate Contentment
       - href: profile.qmd
         text: Bio & Creds
+      - href: blog_page.qmd
+        text: Articles
+
     right:
       - icon: linkedin
         href: https://www.linkedin.com/in/heidi-davidhizar-lcsw-c-38a90990/
     logo: 'HD logo minty2.png'
+  google-analytics: "G-9BGXQE4LXZ"
      
 format:
   html:

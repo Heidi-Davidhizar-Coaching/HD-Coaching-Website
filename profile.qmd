@@ -10,7 +10,7 @@ margin-header: |
      <input type="button" class="btn btn-secondary" onclick="location.href='https://share.hsforms.com/1uumjkYkQQr29LzgYki5F4ge0x16';" value="Start your change.">
 ---
 
-I'll be updating my bio shortly
+I help people by providing accountability and emotional support as we work through financial and relational behavioral change.  I listen to problems, assess situations, and create individualized plans to help people improve their well-being. I also connect with individuals, couples, and families in creating a supportive environment for achieving financial turn-around and educate them about available resources.  Ultimately, my goal is to empower people to live their best lives, reach their full potential, and come to know the Lord Jesus Christ.
 
 ------------------------------------------------------------------------
 
