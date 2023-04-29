@@ -7,10 +7,10 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/heidi-davidhizar-lcsw-38a90990/
 margin-header: |
-     <input type="button" class="btn btn-secondary" onclick="location.href='https://share.hsforms.com/1uumjkYkQQr29LzgYki5F4ge0x16';" value="Start your change.">
+     <input type="button" class="btn btn-secondary" onclick="location.href='https://share.hsforms.com/1uumjkYkQQr29LzgYki5F4ge0x16';" value="Free consultation.">
 ---
 
-I help people by providing accountability and emotional support as we work through financial and relational behavioral change.  I listen to problems, assess situations, and create individualized plans to help people improve their well-being. I connect with others and help them create a supportive environment for achieving financial turnaround and educate them about available resources.  Ultimately, my goal is to empower people to live their best lives, reach their full potential, and come to know the Lord Jesus Christ.
+I help people by providing accountability and emotional support as we work through financial and relational behavioral change.  I connect with others and help them create a supportive environment for achieving financial turnaround and educate them about available resources.  My goal is to empower people to live their best lives, reach their full potential, and come to know the Lord Jesus Christ.
 
 ------------------------------------------------------------------------
 

@@ -4,7 +4,7 @@ format:
     theme: minty
     page-layout: full
     margin-header: |
-     <input type="button" class="btn btn-secondary" onclick="location.href='https://share.hsforms.com/1uumjkYkQQr29LzgYki5F4ge0x16';" value="Start your change.">
+     <input type="button" class="btn btn-secondary" onclick="location.href='https://share.hsforms.com/1uumjkYkQQr29LzgYki5F4ge0x16';" value="Free consultation.">
     grid:
       sidebar-width: 100px
       body-width: 1200px
@@ -13,17 +13,17 @@ format:
 
 # Money can feel crazy.
 
-#### I can help you figure it out ... along with all the other stuff.
+#### You can figure it out with a great  financial coach.
 
-Being worried about money is scary.  But it doesn't have to be this way.  
-
-***
-
-![](pexels-taryn-elliott-3889927.jpg){fig-align="center" height="5in"}
+Worrying about about money can be scary, but it doesn't have to be this way.  You can take control of your future and your pocketbook.  If you want to get serious about money, I will help you feel valued on your journey to debt-free living.    
 
 ***
 
-> **When it comes to how you behave with money, permanent change is possible and working with a Ramsey-certified Financial Coach can help get you there!**
+![](pexels-taryn-elliott-3889927.jpg){fig-align="center" height="4.5in"}
+
+***
+
+> **When it comes to how you behave with money, permanent change is possible and my training as a Ramsey-certified Financial Coach and behavioral specialist can help get you there!**
 
 ***
 
@@ -31,17 +31,19 @@ Being worried about money is scary.  But it doesn't have to be this way.
 
 #### Cultivate contentment.
 
-Let's work together to get out of debt and build a solid financial plan.  You can build a mentality where you are at peace with yourself and the world around you.  You'll be surprised at the impact it will have on your relationships and ability to build wealth!
+You can get out of debt and build a solid financial plan.  You can build a mentality where you are at peace with yourself and the world around you.  You'll be surprised at the impact it will have on your relationships and your ability to build wealth!
 
 ***
 
-![](pexels-mohan-reddy-4227875 (cropped).jpg){fig-align="center" height="5in"}
+![](pexels-mohan-reddy-4227875 (cropped).jpg){fig-align="center" height="4.5in"}
 
 ***
 
 > **I'm here to meet you where you are.  Together, we can figure out what to do. I'll be alongside you every step of the way!  Hiring a financial coach can change your life and your family tree.**
 
-<input type="button" class="btn btn-secondary" onclick="location.href='https://share.hsforms.com/1uumjkYkQQr29LzgYki5F4ge0x16';" value="Start your change.">
+# Start your change.
+
+<input type="button" class="btn btn-secondary" onclick="location.href='https://share.hsforms.com/1uumjkYkQQr29LzgYki5F4ge0x16';" value="Free consultation.">
 
 ***
 
